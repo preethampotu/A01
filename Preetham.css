@@ -11,8 +11,9 @@ body{
   }
 
 header{
-    color:red;
+    color:darkgoldenrod;
     text-align: center;
+    font-size: 80px;
   
 
 }
@@ -68,6 +69,16 @@ ol li{
     border-radius: 50%;
      
     
+}
+.form1{
+    color: black;
+    margin: 54px;
+    font-size: 23px;
+}
+.form2{
+    color: black;
+    margin: -61px;
+    font-size: 23px;
 }
 
 
